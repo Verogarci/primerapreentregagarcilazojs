@@ -33,8 +33,8 @@ function calcularSuma(comisiones) {
 
 
 function mostrarDetalles(nombre, comisiones, suma) {
-    alert("Las comisiones ingresadas fueron: $" + comisiones.join(", $"));
-    alert("La suma total de sus comisiones es: $" + suma);
+    alert("Las ventas ingresadas fueron: $" + comisiones.join(", $"));
+    alert("La suma total de sus ventas es: $" + suma);
 
     
 
